@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551963303 source:d:\uchoba\c++\3\main.cpp
+	<iostream>
+	<locale>
+	<string>
+	<locale.h>
+
