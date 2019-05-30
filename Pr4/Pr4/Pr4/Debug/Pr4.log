@@ -1,0 +1,6 @@
+﻿  pr4.cpp
+c:\users\ярослав\source\repos\pr4\pr4.cpp(23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\ярослав\source\repos\pr4\pr4.cpp(71): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\ярослав\source\repos\pr4\pr4.cpp(83): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\ярослав\source\repos\pr4\pr4.cpp(95): warning C4018: <=: несоответствие типов со знаком и без знака
+  Pr4.vcxproj -> C:\Users\Ярослав\source\repos\Pr4\Debug\Pr4.exe
